@@ -37,6 +37,7 @@ Claude Code や Grok にもこの内容を伝えるため、毎回の更新は�
 - `digest/2026-11-11_initial.md` — 初回まとめ（カテゴリ別インデックス＋直近の予定）
 - `sources/shitsumon_soudan.md` — #all_2-質問-相談-参考情報- から抽出（52件）
 - `sources/announce_event.md` — #all_アナウンス / #00_イベント_オンラインセッション から抽出（32件）
+- `sources/thread_deepdive.md` — スレッド返信が多い8投稿の深掘り（結論・具体的な商品名・金額まで）
 - `sources/other_channels.md` — 融資補助金勉強会 / ポイ活 / リスティング報告 / 物件_都内 / はじめに_必読 / 推しチャンネル から抽出（24件）
 
 ## 直近の重要事項（2026-11-11時点）
